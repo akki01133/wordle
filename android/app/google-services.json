@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946754431085",
+    "project_id": "wordle-1ac87",
+    "storage_bucket": "wordle-1ac87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946754431085:android:1b6ba2bd4de39f35a4b764",
+        "android_client_info": {
+          "package_name": "com.samurais.wordle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946754431085-jresc2vf77sdaocc949q8n0run51jqve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samurais.wordle",
+            "certificate_hash": "9ddc4b4618361be7d99ab5db1591def22f6f6fc7"
+          }
+        },
+        {
+          "client_id": "946754431085-c04p2mghch9ds61j0u79rpj0319q5p4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFvMXhoTafUGP4WWK0d24Y2jK10EJ3vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946754431085-c04p2mghch9ds61j0u79rpj0319q5p4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
